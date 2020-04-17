@@ -12,6 +12,7 @@ Requirement for this project:
 
 
 Data Load: Load  home prices into a dataframe
+
 Drop features that are not required to build our model
 Data Cleaning: Handle NA values
 Add new feature(integer) for exiting unstructured feature
