@@ -11,6 +11,7 @@ Requirement for this project:
 7. HTML/CSS/Javascript for UI
 
 
+step by step process
 1. Data Load: Load  home prices into a dataframe
 2. Drop features that are not required to build our model
 3. Data Cleaning: Handle NA values
